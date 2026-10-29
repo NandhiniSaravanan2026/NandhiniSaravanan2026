@@ -1,3 +1,4 @@
+markdown
 # 👋 Hi, I'm Nandhini  
 ### MIL/SIL/HIL Validation Engineer | Embedded Software | Automotive Systems
 
@@ -38,3 +39,10 @@ CI/CD (GitHub Actions • Tekton • OpenShift)
 ### 📬 Contact Info
 *   💼 Connect with me on [LinkedIn](www.linkedin.com/in/nandhini-saravanan-6126bb165)
 *   📧 Email me at [nandhini.skm1996@gmail.com]
+
+### 🏆 Certifications
+
+*   ![Coursera](https://shields.io) **[IBM - Continuous Integration and Continuous Delivery (CI/CD)]** – *Issued by Coursera*
+    *   **Skills Earned:** [e.g., Docker, Kubernetes, CI/CD Pipeline Automation]
+    *   👉 [Verify Certificate](https://coursera.org/verify/2QQFCLUZECZG)
+

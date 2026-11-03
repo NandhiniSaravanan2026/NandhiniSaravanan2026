@@ -1,4 +1,3 @@
-markdown
 # 👋 Hi, I'm Nandhini  
 ### MIL/SIL/HIL Validation Engineer | Embedded Software | Automotive Systems
 
@@ -45,4 +44,7 @@ CI/CD (GitHub Actions • Tekton • OpenShift)
 *   ![Coursera](https://shields.io) **[IBM - Continuous Integration and Continuous Delivery (CI/CD)]** – *Issued by Coursera*
     *   **Skills Earned:** [e.g., Docker, Kubernetes, CI/CD Pipeline Automation]
     *   👉 [Verify Certificate](https://coursera.org/verify/2QQFCLUZECZG)
+*   ![Coursera](https://shields.io) **[Supervised Machine Learning: Regression and Classification]** – *Issued by Coursera*
+    *   **Skills Earned:** [Regression Analysis, Predictive Modeling, Logistic Regression, Classification Algorithms, Python Programming, Model Training, Applied Machine Learning, Feature Engineering, Supervised Learning, Model Optimization, Model Evaluation]
+    *   👉 [Verify Certificate](https://coursera.org/verify/FAEPKSXW7CMH)
 

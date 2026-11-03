@@ -41,12 +41,12 @@ CI/CD (GitHub Actions • Tekton • OpenShift)
 
 ### 🏆 Certifications
 
-*   ![Coursera](https://shields.io) **[IBM - Continuous Integration and Continuous Delivery (CI/CD)]** – *Issued by Coursera*
-*   [![Coursera Badge](https://img.shields.io/badge/Coursera-Certificate-blue)](https://coursera.org/verify/2QQFCLUZECZG)
-
+*   [![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)](https://coursera.org/verify/2QQFCLUZECZG)
+    **[IBM - Continuous Integration and Continuous Delivery (CI/CD)]**
     *   **Skills Earned:** [e.g., Docker, Kubernetes, CI/CD Pipeline Automation]
     *   👉 [Verify Certificate](https://coursera.org/verify/2QQFCLUZECZG)
-*   ![Coursera](https://shields.io) **[Supervised Machine Learning: Regression and Classification]** – *Issued by Coursera*
+*   [![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)](https://coursera.org/verify/FAEPKSXW7CMH)
+    **[Supervised Machine Learning: Regression and Classification]**
     *   **Skills Earned:** [Regression Analysis, Predictive Modeling, Logistic Regression, Classification Algorithms, Python Programming, Model Training, Applied Machine Learning, Feature Engineering, Supervised Learning, Model Optimization, Model Evaluation]
     *   👉 [Verify Certificate](https://coursera.org/verify/FAEPKSXW7CMH)
 
